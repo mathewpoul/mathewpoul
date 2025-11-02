@@ -20,7 +20,7 @@ I am a Senior Software Engineer with **13+ years of experience** specializing in
 - Production debugging, system stability & real-time systems  
 - Mentoring engineers & improving engineering quality  
 
-I have spent my career building software used by **US employee benefit administrators, TPAs, banks, payment networks & thousands of end users**.
+I have spent my career building software used by **US employee benefit administrators, TPAs, banks and payment networks **.
 
 ---
 
